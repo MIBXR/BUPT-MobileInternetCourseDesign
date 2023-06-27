@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0080ff</color>
+    <color name="colorPrimaryDark">#0080ff</color>
+    <color name="colorAccent">#0080ff</color>
+
+    <color name="colorTheme">#0080ff</color>
+    <color name="colorThemePale">#E9ECEF</color>
+    <color name="colorThemeLine">#589BEC</color>
+    <color name="colorDark">#000106</color>
+    <color name="colorLight">#FEFEFE</color>
+    <color name="colorBack">#F8F8F8</color>
+    <color name="colorBackPale">#FAFBFA</color>
+    <color name="colorText">#4C4C4C</color>
+    <color name="colorTitleText">#000000</color>
+    <color name="colorDarkText">#313131</color>
+    <color name="colorDefaultText">#A0A0A0</color>
+
+    <color name="auto_text_color">#000000</color>
+    <color name="serach_back_color">#FFFFFF</color>
+
+    <color name="colorBotBarBack">#F7F7F7</color>
+    <color name="colorBotLine">#E5E5E5</color>
+    <color name="colorTopLine">#B1B1B1</color>
+    <color name="colorLineBoth">#B1B1B1</color>
+
+
+    <!-- 几种好看的颜色..  -->
+    <color name="colorNiceOrange">#DC7A62</color>
+    <color name="colorNiceGreen">#ff4edcb6</color>
+    <color name="colorNiceBlue">#ff62c3d3</color>
+    <color name="colorNiceYellow">#fff0b400</color>
+
+    <color name="paper_one">#2B2B2B</color>
+    <color name="paper_two">#83A6FE</color>
+
+    <color name="near_black">#3b3b3b</color>
+    <color name="greyC">#cccccc</color>
+    <color name="grey9">#999999</color>
+    <color name="near_white">#f3f3f3</color>
+
+    <color name="cover">#66000000</color>
+
+    <color name="toolbar">#000000</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

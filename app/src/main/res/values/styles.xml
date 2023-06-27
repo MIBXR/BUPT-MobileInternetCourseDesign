@@ -1,0 +1,92 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="DayTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="toolbarTheme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="tvBackground">@color/white</item>
+        <item name="lvBackground">@color/near_white</item>
+        <item name="menu_search">@drawable/ic_search_white_24dp</item>
+        <item name="menu_delete_all">@drawable/ic_delete_forever_white_24dp</item>
+        <item name="menu_delete">@drawable/ic_delete_prim_24dp</item>
+        <item name="titleColor">@color/black</item>
+        <item name="tvMainColor">@color/black</item>
+        <item name="tvSubColor">@color/grey9</item>
+        <item name="settingIcon">@drawable/ic_settings_prim_24dp</item>
+        <item name="renewIcon">@drawable/ic_refresh_prim_24dp</item>
+        <item name="removeTag">@drawable/ic_remove_white_24dp</item>
+        <item name="addTag">@drawable/ic_add_white_24dp</item>
+        <item name="addPlanTag">@drawable/ic_flag_white_24dp</item>
+        <item name="colorControlActivated">@color/black</item>
+        <item name="colorSwitchThumbNormal">@color/black</item>
+    </style>
+
+    <style name="AnimationFade">
+        <!-- PopupWindow左右弹出的效果 -->
+        <item name="android:windowEnterAnimation">@anim/in_lefttoright</item>
+        <item name="android:windowExitAnimation">@anim/out_righttoleft</item>
+    </style>
+
+    <style name="AnimationCover">
+        <!-- PopupWindow背景缓入效果 -->
+        <item name="android:windowEnterAnimation">@anim/in_slow</item>
+        <item name="android:windowExitAnimation">@anim/out_slow</item>
+    </style>
+
+    <style name="spinnerPop">
+        <!-- spinner弹出效果 -->
+        <item name="android:textSize">16dp</item>
+        <item name="android:titleTextColor" tools:targetApi="m">#ffffff</item>
+    </style>
+
+<!--    <style name="TVsetting">-->
+<!--        <item name="android:textSize">20dp</item>-->
+<!--        <item name="android:textColor">@color/colorPrimaryDark</item>-->
+<!--        <item name="android:layout_height">40dp</item>-->
+<!--        <item name="android:layout_width">match_parent</item>-->
+<!--        <item name="android:layout_margin">10dp</item>-->
+<!--        <item name="android:gravity">center_vertical</item>-->
+<!--    </style>-->
+
+<!--    <style name="IVsetting">-->
+<!--        <item name="android:layout_width">60dp</item>-->
+<!--        <item name="android:layout_height">60dp</item>-->
+<!--        <item name="android:layout_margin">10dp</item>-->
+<!--        <item name="android:layout_weight">1</item>-->
+<!--    </style>-->
+
+    <style name="centerTV">
+        <!-- TextView居中效果 -->
+        <item name="android:textSize">24dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="DayDialogTheme">
+        <!-- 对话框效果 -->
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="TextAppearance.TimePickerDialogStyle.TimeLabel" parent="@android:style/TextAppearance.Material" tools:targetApi="lollipop">
+        <!-- 时间选择器效果 -->
+        <item name="android:textSize">60sp</item> <!-- from -->
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextAppearance.Material.TimePicker.AmPmLabel" parent="@android:style/TextAppearance.Material" tools:targetApi="lollipop">
+        <!-- 时间选择器效果 -->
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

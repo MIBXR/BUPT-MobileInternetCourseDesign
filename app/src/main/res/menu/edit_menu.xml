@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ocr"
+        android:icon="@mipmap/ocr"
+        android:title="文字识别"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="分享"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/scan"
+        android:icon="@drawable/ic_baseline_scan_24"
+        android:title="二维码扫描"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/ic_delete_white_24dp"
+        android:title="删除"
+        app:showAsAction="always"/>
+
+</menu>

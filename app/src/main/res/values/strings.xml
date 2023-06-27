@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MyQRNote</string>
+    <string name="title_activity_home">主页</string>
+    <string name="scan_title">扫一扫</string>
+
+    <string name="edit_delete_confirm">确定不保存吗?</string>
+    <string name="edit_time_past">设定提醒时间已经过去了~</string>
+    <string name="edit_title_empty">标题还没填呢~</string>
+
+    <string name="before_one_month">一个月之前</string>
+    <string name="before_three_months">三个月之前</string>
+    <string name="before_six_months">半年前</string>
+    <string name="before_one_year">一年前</string>
+
+    <string name="permi_not_grant">权限未授予</string>
+    <string name="permi_please">本程序申请的权限都是功能所需，缺少权限无法正常使用，是否授予?</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+
+    <string name="enter_new_tag">输入新TAG名</string>
+    <string name="repeat_tag">TAG已存在</string>
+    <string name="too_many_tag">自定义标签太多了~</string>
+    <string name="del_tag_hint">对应标签的笔记会被标记为“默认”哦</string>
+
+    <string name="serach_hint">关键词</string>
+    <string name="delete_during">按时间删除</string>
+    <string name="delete_all_notes_q">删除所有笔记吗?</string>
+    <string name="delete_all_plans_q">删除所有提醒吗?</string>
+    <string name="delete_one_note_q">删除这条笔记吗?</string>
+    <string name="delete_one_plan_q">删除这条提醒吗?</string>
+
+    <string name="all_notes">笔记</string>
+    <string name="all_plans">提醒</string>
+
+    <string name="share_type_not_note">这是一个Plan,已添加到你的提醒中了哦~</string>
+    <string name="share_type_not_plan">这是一个Note,已添加到你的笔记中了哦~</string>
+    <string name="empty_content">写点东西再分享哦~</string>
+    <string name="empty_title">填好标题再分享哦~</string>
+    <string name="share_not_self">这不是本软件的二维码哦~</string>
+
+    <string name="you_have_write">你已经写了</string>
+    <string name="your_first_step">相信你已经学会记录笔记了~</string>
+    <string name="your_ten_step">相信你已经完全熟悉本软件了~</string>
+
+    <string name="num_ache_sentence_4">你写的字数快够一篇毕设了~</string>
+    <string name="num_ache_sentence_3">你写的字数够一篇大作业文档了~</string>
+    <string name="num_ache_sentence_2">你写的字数够一篇实验报告了~</string>
+    <string name="num_ache_sentence_1">你写的字数够一篇高考作文了~</string>
+    <string name="num_ache_sentence_0">你写的字数够一篇读书心得了~</string>
+</resources>

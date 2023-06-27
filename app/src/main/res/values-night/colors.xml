@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="colorText">#B1B1B1</color>
+    <color name="auto_text_color">#FFFFFF</color>
+    <color name="serach_back_color">#2A2A2B</color>
+    <color name="colorTitleText">#FFFFFF</color>
+    <color name="colorLineBoth">#000000</color>
+
+    <color name="colorTheme">#0080ff</color>
+    <color name="colorThemePale">#2A2A2B</color>
+    <color name="colorBack">#0E0E0E</color>
+</resources>
